@@ -387,7 +387,6 @@ The following calling and meeting features are not supported:
 - Broadcast and live event producer and presenter roles
 - Location-Based Routing (LBR)
 - Call park
-- Call queue
 - Shared system audio/computer sound
 - Media bypass for Direct Routing
 - Zoom control 
